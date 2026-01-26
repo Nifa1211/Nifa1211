@@ -49,4 +49,22 @@ Pre-final year B.Tech CSE student and aspiring full-stack developer turning idea
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
 </p>
+---
+
+### 🏅 Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/df450169-b788-48ce-b0e0-f2f8dbaf0bf5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="110" />
+  </a>
+
+  <a href="https://www.credly.com/badges/52aa620d-d0b7-4b41-b94a-bb769011d3b9/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/68508264-ec6e-47cf-a8c1-94d86f2573fb/blob" width="110" />
+  </a>
+
+  <a href="https://www.credly.com/badges/08e24253-d9c5-4c28-9700-a50eb9cb3023/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/95cf22a9-209f-4832-b5d8-6341cfd7f20d/blob" width="110" />
+  </a>
+</p>
+
 
