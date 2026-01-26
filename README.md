@@ -8,7 +8,7 @@ Pre-final year B.Tech CSE student and aspiring full-stack developer turning idea
 - 🌱 I’m currently learning **Cloud Computing, UI/UX, Software Development**
 - 📫 How to reach me **eshanyapadial@gmail.com**
 - 📄 Know about my experiences  
-  👉 [Resume & Documents](https://drive.google.com/drive/folders/1K2JUCbaRcSsYNDMD8FfaV0Jrx33voRGO?usp=sharing)
+  👉 [Resume](https://drive.google.com/drive/folders/1K2JUCbaRcSsYNDMD8FfaV0Jrx33voRGO?usp=sharing)
 - ⚡ Fun fact **The world can always be made happier through creativity**
 
 <h3 align="left">Connect with me:</h3>
