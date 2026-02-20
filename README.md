@@ -48,7 +48,7 @@ Pre-final year B.Tech CSE student and aspiring full-stack developer turning idea
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
 </p>
----
+
 
 ### 🏅 Certifications & Badges
 
