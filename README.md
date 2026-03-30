@@ -64,6 +64,9 @@ Pre-final year B.Tech CSE student and aspiring full-stack developer turning idea
   <a href="https://www.credly.com/badges/08e24253-d9c5-4c28-9700-a50eb9cb3023/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/95cf22a9-209f-4832-b5d8-6341cfd7f20d/blob" width="110" />
   </a>
+  <a href="https://www.credly.com/badges/85d6a615-9708-438e-ac0c-4fbc0b74b02c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />
+  </a>
 </p>
 
 
