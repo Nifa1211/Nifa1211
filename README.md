@@ -4,7 +4,7 @@
 Pre-final year B.Tech CSE student and aspiring full-stack developer turning ideas ✨ into code
 </h3>
 
-- 🔭 I’m currently working on **Containerised web APP, portfolio, designs and many more to come**
+- 🔭 I’m currently working on **Containerised web APP, ML Project designs and many more to come**
 - 🌱 I’m currently learning **Cloud Computing, UI/UX, Software Development**
 - 📫 How to reach me **eshanyapadial@gmail.com**
 - 📄 Know about my experiences  
